@@ -1,0 +1,25 @@
+{
+  "name": "ui-scroll-fixed",
+  "version": "0.0.0",
+  "dependencies": {
+    "coffeeify": "",
+    "coffee-script": "",
+    "browserify": "",
+    "browserify-data": "",
+    "gulp": "",
+    "gulp-browserify": "",
+    "gulp-shell": "",
+    "gulp-less": "",
+    "gulp-replace": "",
+    "gulp-rename": "",
+    "gulp-concat": "",
+    "vulcanize": "",
+    "express": "",
+    "polymer": "git://github.com/Custom-Elements/polymer"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "gulp build",
+    "test": "gulp watch"
+  }
+}
