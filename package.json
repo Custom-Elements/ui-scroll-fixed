@@ -15,7 +15,7 @@
     "gulp-concat": "",
     "vulcanize": "",
     "express": "",
-    "polymer": "git://github.com/Custom-Elements/polymer"
+    "polymer": "git+https://github.com/Custom-Elements/polymer"
   },
   "license": "MIT",
   "scripts": {
